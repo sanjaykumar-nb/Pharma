@@ -26,10 +26,20 @@ Create a HTML file and include the needed Bootstrap components.
 Publish the website in the LocalHost.
 
 ## PROGRAM :
+```
+web.html
 
+product.html
+
+about.html
+
+contact.html
+```
 
 ## OUTPUT:
-
-
+![alt text](<pharm/pharapp/static/Screenshot 2024-05-11 172153.png>)
+![alt text](<pharm/pharapp/static/Screenshot 2024-05-11 172202.png>)
+![alt text](<pharm/pharapp/static/Screenshot 2024-05-11 172213.png>)
+![alt text](<pharm/pharapp/static/Screenshot 2024-05-11 172222.png>)
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
